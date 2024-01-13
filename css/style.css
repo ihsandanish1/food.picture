@@ -1,0 +1,47 @@
+#button-addon2{
+    color: white;
+    background-color: rgb(15, 161, 15)!important;
+}
+
+.navbar-custom {
+    background-color: #3498db;
+  }
+
+  .navbar-custom .navbar-brand,
+  .navbar-custom .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+
+  .navbar-custom .navbar-toggler-icon {
+    background-color: #ffffff;
+  }
+  .container-fluid1{
+    margin-top: 35px !important;
+    background-image: url(../image/1.png); 
+  }
+  .content{
+    position: relative;
+    top: -300px;
+    left: -250px;
+  }
+  /* .first-img{
+    height: 600px;
+    width: 450px;
+  } */
+  .fff{
+    rotate: 270deg;
+    width:257px ;
+    height: 260px;
+  }
+  .content2{
+    position: absolute;
+    bottom: 310px;
+   
+}
+.yyy{
+  width:257px;
+  height: 200px;
+}
+.style{
+  color: #3498db;
+}
